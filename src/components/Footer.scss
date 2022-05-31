@@ -1,0 +1,374 @@
+.footer {
+    width: 100%;
+    height:90vh;
+    position: relative;
+    font-family: 'GT Walsheim pro', sans-serif;
+    // align-items: center;
+    // justify-content: center;
+    background: rgba(62, 148, 254, 0.3);
+    // display: flex;
+    margin-top: 1200px;
+
+    .footercontent {
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        // margin-top: 30px;
+        .footer1{
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-left: 30px;
+            margin-right: 400px;
+            padding-top: 20px;
+            .logo {
+                width: 80px;
+                margin-left: 30px;
+                // margin-top: 30px;
+            }
+            .bongalo {
+                // width: 100px;
+                margin-left: 20px;
+                padding-bottom: 20px;
+            }
+            .message {
+                position: absolute;
+                padding: 8px;
+                // bottom: 27%;
+            }
+            input {
+                display: flex;
+                width:280px;
+                height: 30px;
+                border-radius: 5px            ;
+                -webkit-border-radius: 5px            ;
+                -moz-border-radius: 5px            ;
+                -ms-border-radius: 5px            ;
+                -o-border-radius: 5px            ;
+                border: none;
+                // margin-top: 20px;
+}
+.btnft {
+    cursor: pointer;
+    background: #3e94fe;
+    color: #ffffff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    height: 32px;
+    width: 70px;
+    border: none;
+    outline: none;
+  }
+  form {
+      display: flex;
+      gap: 5px;
+      margin-top:10px;
+  }
+  .footer1p{
+      margin-left: 70px;
+      
+  }
+}
+.footer2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-between;
+    // align-items: center;
+    margin-right: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+    .footer21 {
+        margin-top: 30px;
+        h5 {
+            margin-left: 30px;
+        }
+        ul li {
+            list-style: none;
+            // display: flex;
+            position: relative;
+            margin: 30px 0px 20px 30px;
+            a {
+                text-decoration: none;
+                color: #000000;
+                // margin: 20px 0px 20px 30px;               
+            }
+        }
+    }
+    .footer212 {
+        margin-top: 30px;
+        h5 {
+            margin-left: 30px;
+        }
+        ul li {
+            list-style: none;
+            // display: flex;
+            position: relative;
+            margin: 30px 0px 20px 30px;
+            a {
+                text-decoration: none;
+                color: #000000;
+                // margin: 20px 0px 20px 30px;               
+            }
+        }
+}
+.footer211 {
+    margin-top: 30px;
+    p {
+        margin-top: 30px;
+    }
+    .text {
+        margin-top: 40px;
+    }
+}
+.footer121 {
+    margin-top: 30px;
+    h5 {
+    // margin-top: -45px;
+    // margin: 5px;
+    position: relative;
+}
+.joincontent {
+    margin-top: 30px;
+   .join2 {
+       margin-left: 10px;
+   }
+   .join3 {
+    margin-left: 10px;
+}
+.join4 {
+    margin-left: 10px;
+    position: relative;
+}
+    .join {
+        position: relative;
+        right: 15.8%;
+        bottom: 9px;
+    }
+}
+}
+}
+.paymentsection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100%;
+    margin: 70px;
+    .Vectorpay2 {
+       width: 10%;
+       margin-left: 10px;
+    }
+       .Vectorpay {
+        width: 20%;
+        margin-left: 10px;
+       }
+    // img {
+    //     margin: 10px;
+    // }
+    
+}
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .footer {
+        width: 100%;
+        height:170vh;
+        font-family: 'GT Walsheim pro', sans-serif;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        background: rgba(62, 148, 254, 0.3);
+        // display: flex;
+        margin-top: 1200px;
+        overflow: hidden;
+    
+        .footercontent {
+            position: relative;
+            align-items: center;
+            justify-content: center;
+            // margin-top: 30px;
+            .footer1{
+                display:flex;
+                justify-content: space-between;
+                flex-direction: column;
+                align-items: center;
+                margin-left: 30px;
+                // margin-right: 400px;
+                padding-top: 20px;
+                .footer1ptop {
+                    display: flex;
+                    margin-left: 200px;
+                }
+                .logo {
+                    width: 80px;
+                    margin-left: 30px;
+                    // margin-top: 30px;
+                }
+                .bongalo {
+                    // width: 100px;
+                    margin-left: 20px;
+                    padding-bottom: 10px;
+                }
+                .message {
+                    position: absolute;
+                    padding: 8px;
+                    // bottom: 27%;
+                }
+                input {
+                    display: flex;
+                    width:280px;
+                    height: 30px;
+                    border-radius: 5px            ;
+                    -webkit-border-radius: 5px            ;
+                    -moz-border-radius: 5px            ;
+                    -ms-border-radius: 5px            ;
+                    -o-border-radius: 5px            ;
+                    border: none;
+                    // margin-top: 20px;
+    }
+    .btnft {
+        cursor: pointer;
+        background: #3e94fe;
+        color: #ffffff;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        height: 32px;
+        width: 70px;
+        border: none;
+        outline: none;
+      }
+      form {
+          display: flex;
+          gap: 5px;
+          margin-top:10px;
+      }
+      .footer1p{
+          margin-left: 350px;
+          margin-top: 20px;
+          
+      }
+    }
+    .footer2 {
+        display: grid;
+        grid-template-columns: auto auto;
+        justify-content: space-between;
+        // align-items: center;
+        gap: 40px;
+        // margin-right: 300px;
+        margin-left: 30px;
+        margin-top: 30px;
+        .footer21 {
+            margin-top: 30px;
+            h5 {
+                margin-left: 30px;
+                display: flex;
+            }
+            ul li {
+                list-style: none;
+                // display: flex;
+                position: relative;
+                margin: 30px 0px 20px 30px;
+                a {
+                    text-decoration: none;
+                    color: #000000;
+                    // margin: 20px 0px 20px 30px;               
+                }
+            }
+        }
+        .footer212 {
+            margin-top: 30px;
+            h5 {
+                margin-left: 110px;
+            }
+            ul li {
+                list-style: none;
+                // display: flex;
+                position: relative;
+                margin: 30px 0px 30px 110px;
+                a {
+                    text-decoration: none;
+                    color: #000000;
+                    // margin: 20px 0px 20px 30px;               
+                }
+            }
+    }
+    .footer211 {
+        margin-top: 30px;
+        h5 {
+            margin-left: 30px;
+        }
+        p {
+            margin-top: 30px;
+            margin-left: 30px;
+        }
+        .text {
+            margin-top: 40px;
+            margin-left: 30px;
+        }
+    }
+    .footer121 {
+        margin-top: 30px;
+        // margin-left: 110px;
+        h5 {
+        // margin-top: -45px;
+        // margin: 5px;
+        margin-left: 110px;
+        position: relative;
+    }
+    .joincontent {
+        margin-top: 30px;
+        margin-left: 110px;
+        display: flex;
+       .join2 {
+           margin-left: 10px;
+       }
+       .join3 {
+        margin-left: 10px;
+    }
+    .join4 {
+        margin-left: 10px;
+        position: relative;
+    }
+        .join {
+            position: relative;
+            left: -160.8%;
+            bottom: -10px;
+        }
+    }
+    }
+    }
+    .paymentsection {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 100%;
+        // margin: 70px;
+        .pay {
+            margin-top: 10px;
+        }
+        .Vectorpay2 {
+           width: 10%;
+           margin-left: 10px;
+        }
+           .Vectorpay {
+            width: 20%;
+            margin-left: 10px;
+           }
+           .payment {
+               margin-bottom: 10px;
+           }
+        // img {
+        //     margin: 10px;
+        // }
+        
+    }
+        }
+    }
+    }
