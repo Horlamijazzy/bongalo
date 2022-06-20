@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  font-family: 'GT walsheim', sans-serif;
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.featured-places-carousel {
+  margin-top: 900px;
+.carousel{
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    overflow-y: hidden;
+    margin: auto;
+    .carousel1-btn{
+      position: absolute;
+      right: 5%;
+      width: 50px;
+    }
+    .prev-btn{
+      position: absolute;
+      left: 5%;
+      width: 50px;
+    }
+    .carousel-wrapper{
+      display: flex;
+      overflow-y: hidden;
+      justify-content: center;
+      
+      .carousel-text{
+        margin: 0;
+      }
+  
+      .carousel-item{
+        padding: 18px;
+        .carousel-image{
+          display: block;
+        }
+      }
+      
+    }
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .featured-places-carousel{
+    margin-top: 350px;
+  .carousel{
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    overflow-y: hidden;
+    margin: auto;
+    .carousel1-btn{
+      position: absolute;
+      right: 5%;
+      width: 50px;
+    }
+    .prev-btn{
+      position: absolute;
+      left: 5%;
+      width: 50px;
+    }
+    .carousel-wrapper{
+      display: flex;
+      overflow-y: hidden;
+      justify-content: center;
+      
+      .carousel-text{
+        margin: 0;
+      }
+  
+      .carousel-item{
+        padding: 10px;
+        .carousel-image{
+          display: block;
+        }
+      }
+      
+    }
+  }
+  }
+  
+}

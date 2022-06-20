@@ -26,27 +26,33 @@ function Footer () {
             <p>Enter your email to subscribe to our newsletter</p>
             <form>
                 <img src={Vectormessage} alt="message" className="message" />
-                <input type="email" placeholder="                  Enter Email Address" /><button className="btnft">Subsribe</button>
+                <input type="email" placeholder="           Enter Email Address" /><button className="btnft">Subsribe</button>
             </form>
             </div>
             </div>
             <div className="footer2">
                 <div className="footer21">
                     <h5>ABOUT BONGALO</h5>
+                    <p>
                     <ul>
                     <li><a href="#">About us</a></li>
                     <li><a href="#">Company</a></li>
                     <li><a href="#">Career</a></li>
                     <li><a href="#">Press Release</a></li>
                 </ul>
+                    </p>
+                    
                 </div>
                 <div className="footer212">
                     <h5 className="footertext">LINK</h5>
+                    <p>
                     <ul>
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                     <li><a href="#">Terms & Conditions</a></li>
                 </ul>
+                    </p>
+                   
             </div>
             <div className="footer211">
                 <h5>CONTACT</h5>

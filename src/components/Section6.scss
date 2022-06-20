@@ -6,7 +6,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
-    top: 1150px;
+    top: 80px;
     .section-container {
         text-align: center;
     }
@@ -16,7 +16,7 @@
         display: grid;
         grid-template-columns: auto auto auto auto;
         position: relative;
-        gap: 40px;
+        gap: 70px;
         // .img {
         //     margin-left: 50px;
         // }
@@ -54,6 +54,49 @@
             display: grid;
             grid-template-columns: auto auto auto auto;
             margin-left: -64px;
+            position: relative;
+            width: 160%;
+            margin-right: 40px;
+            gap: 15px;
+            .img {
+                width: 80%;
+            }
+            .img1 {
+                display: none;
+            }
+        }
+        .ellipseplace {
+            position: absolute;
+            left: 65%;
+            top: 20%;
+        }
+        .vectorplace {
+            position: absolute;
+            left: 82%;
+            top: 30.5%;
+        }
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .section {
+        // display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        max-width: 100%;
+        margin-top: 10px;
+        font-family: 'GT Walsheim', sans-serif;
+        overflow: hidden;
+        .section-container {
+            text-align: center;
+        }
+        .section6 {
+            align-items: center;
+            justify-content: center;
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+            margin-left: 10px;
             position: relative;
             width: 160%;
             margin-right: 40px;
