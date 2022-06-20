@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bongalo/static/css/main.dac9f1f6.css",
-    "main.js": "/bongalo/static/js/main.f118fbe5.js",
+    "main.css": "/bongalo/static/css/main.4fc2b337.css",
+    "main.js": "/bongalo/static/js/main.8509e4c2.js",
     "static/js/787.2d1e6323.chunk.js": "/bongalo/static/js/787.2d1e6323.chunk.js",
     "static/media/background.png": "/bongalo/static/media/background.9cdbab225bc2f4463efa.png",
     "static/media/rectangle8.svg": "/bongalo/static/media/rectangle8.9a380a558f96f9fa6f853771d89e45b6.svg",
@@ -26,6 +26,7 @@
     "static/media/group4.svg": "/bongalo/static/media/group4.9b297531e8b34a4580468c86cc951549.svg",
     "static/media/logo.svg": "/bongalo/static/media/logo.6a9c1161b653be4a194594df33373f50.svg",
     "static/media/image2.svg": "/bongalo/static/media/image2.5af02b88a5bcd4afc301227335201053.svg",
+    "static/media/exp.svg": "/bongalo/static/media/exp.0dbf1dbacde9d20e2b577b3b0c98064a.svg",
     "static/media/pay.svg": "/bongalo/static/media/pay.905bba71d8102ec979fcdbe8af10122b.svg",
     "static/media/Bongalofooter.svg": "/bongalo/static/media/Bongalofooter.b14dbab44963b0c199744e0a4855bd59.svg",
     "static/media/bongalo.svg": "/bongalo/static/media/bongalo.129e1e4ffb8fd5d74cafebf2130254fe.svg",
@@ -36,8 +37,9 @@
     "static/media/Vectorpay3.svg": "/bongalo/static/media/Vectorpay3.69e803755dd722dc5f7365cc1205b6bb.svg",
     "static/media/Vectorjoin2.svg": "/bongalo/static/media/Vectorjoin2.4148dca9fbb1946d1f8e7fed4cb68ea5.svg",
     "static/media/Group.svg": "/bongalo/static/media/Group.5a635338fe3ef003e0be1e8ff3c89f36.svg",
-    "static/media/amaloc.svg": "/bongalo/static/media/amaloc.b03a56da898892ab345ab9459540e788.svg",
     "static/media/dest.svg": "/bongalo/static/media/dest.578571a4e925a8173ffeb382eb24f6c4.svg",
+    "static/media/leftarrow.svg": "/bongalo/static/media/leftarrow.b9573fcbfd12ce9ce81a5accc9860fac.svg",
+    "static/media/rightarrow.svg": "/bongalo/static/media/rightarrow.62b08ef72eb840fa35cbe6b96ef4b7ad.svg",
     "static/media/Vectorjoin1.svg": "/bongalo/static/media/Vectorjoin1.c99a9998de57ceefd2004c749becd97b.svg",
     "static/media/date.svg": "/bongalo/static/media/date.19d3cd3656241d401006328d27f45c97.svg",
     "static/media/sat.svg": "/bongalo/static/media/sat.053d3461fa92ec4eefff6d0746b63179.svg",
@@ -55,12 +57,12 @@
     "static/media/Line.svg": "/bongalo/static/media/Line.08935a685460a70c82a64b17f4031a3f.svg",
     "static/media/ellipse.svg": "/bongalo/static/media/ellipse.64d016562ef70a123abbaf5da7e2ef1b.svg",
     "static/media/Ellipse4.svg": "/bongalo/static/media/Ellipse4.d9493675cf89db11dcff40a3c799fb8d.svg",
-    "main.dac9f1f6.css.map": "/bongalo/static/css/main.dac9f1f6.css.map",
-    "main.f118fbe5.js.map": "/bongalo/static/js/main.f118fbe5.js.map",
+    "main.4fc2b337.css.map": "/bongalo/static/css/main.4fc2b337.css.map",
+    "main.8509e4c2.js.map": "/bongalo/static/js/main.8509e4c2.js.map",
     "787.2d1e6323.chunk.js.map": "/bongalo/static/js/787.2d1e6323.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dac9f1f6.css",
-    "static/js/main.f118fbe5.js"
+    "static/css/main.4fc2b337.css",
+    "static/js/main.8509e4c2.js"
   ]
 }
